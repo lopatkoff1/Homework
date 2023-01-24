@@ -1,0 +1,15 @@
+C:\Users\Комп\Desktop\homework\Task_02sem2\bin\Debug\net6.0\Task_02sem2.exe
+C:\Users\Комп\Desktop\homework\Task_02sem2\bin\Debug\net6.0\Task_02sem2.deps.json
+C:\Users\Комп\Desktop\homework\Task_02sem2\bin\Debug\net6.0\Task_02sem2.runtimeconfig.json
+C:\Users\Комп\Desktop\homework\Task_02sem2\bin\Debug\net6.0\Task_02sem2.dll
+C:\Users\Комп\Desktop\homework\Task_02sem2\bin\Debug\net6.0\Task_02sem2.pdb
+C:\Users\Комп\Desktop\homework\Task_02sem2\obj\Debug\net6.0\Task_02sem2.csproj.AssemblyReference.cache
+C:\Users\Комп\Desktop\homework\Task_02sem2\obj\Debug\net6.0\Task_02sem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Комп\Desktop\homework\Task_02sem2\obj\Debug\net6.0\Task_02sem2.AssemblyInfoInputs.cache
+C:\Users\Комп\Desktop\homework\Task_02sem2\obj\Debug\net6.0\Task_02sem2.AssemblyInfo.cs
+C:\Users\Комп\Desktop\homework\Task_02sem2\obj\Debug\net6.0\Task_02sem2.csproj.CoreCompileInputs.cache
+C:\Users\Комп\Desktop\homework\Task_02sem2\obj\Debug\net6.0\Task_02sem2.dll
+C:\Users\Комп\Desktop\homework\Task_02sem2\obj\Debug\net6.0\refint\Task_02sem2.dll
+C:\Users\Комп\Desktop\homework\Task_02sem2\obj\Debug\net6.0\Task_02sem2.pdb
+C:\Users\Комп\Desktop\homework\Task_02sem2\obj\Debug\net6.0\Task_02sem2.genruntimeconfig.cache
+C:\Users\Комп\Desktop\homework\Task_02sem2\obj\Debug\net6.0\ref\Task_02sem2.dll
