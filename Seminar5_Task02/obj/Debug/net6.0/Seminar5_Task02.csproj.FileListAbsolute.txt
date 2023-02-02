@@ -1,0 +1,15 @@
+C:\Users\Комп\Desktop\учёба\homework\Seminar5_Task02\bin\Debug\net6.0\Seminar5_Task02.exe
+C:\Users\Комп\Desktop\учёба\homework\Seminar5_Task02\bin\Debug\net6.0\Seminar5_Task02.deps.json
+C:\Users\Комп\Desktop\учёба\homework\Seminar5_Task02\bin\Debug\net6.0\Seminar5_Task02.runtimeconfig.json
+C:\Users\Комп\Desktop\учёба\homework\Seminar5_Task02\bin\Debug\net6.0\Seminar5_Task02.dll
+C:\Users\Комп\Desktop\учёба\homework\Seminar5_Task02\bin\Debug\net6.0\Seminar5_Task02.pdb
+C:\Users\Комп\Desktop\учёба\homework\Seminar5_Task02\obj\Debug\net6.0\Seminar5_Task02.csproj.AssemblyReference.cache
+C:\Users\Комп\Desktop\учёба\homework\Seminar5_Task02\obj\Debug\net6.0\Seminar5_Task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Комп\Desktop\учёба\homework\Seminar5_Task02\obj\Debug\net6.0\Seminar5_Task02.AssemblyInfoInputs.cache
+C:\Users\Комп\Desktop\учёба\homework\Seminar5_Task02\obj\Debug\net6.0\Seminar5_Task02.AssemblyInfo.cs
+C:\Users\Комп\Desktop\учёба\homework\Seminar5_Task02\obj\Debug\net6.0\Seminar5_Task02.csproj.CoreCompileInputs.cache
+C:\Users\Комп\Desktop\учёба\homework\Seminar5_Task02\obj\Debug\net6.0\Seminar5_Task02.dll
+C:\Users\Комп\Desktop\учёба\homework\Seminar5_Task02\obj\Debug\net6.0\refint\Seminar5_Task02.dll
+C:\Users\Комп\Desktop\учёба\homework\Seminar5_Task02\obj\Debug\net6.0\Seminar5_Task02.pdb
+C:\Users\Комп\Desktop\учёба\homework\Seminar5_Task02\obj\Debug\net6.0\Seminar5_Task02.genruntimeconfig.cache
+C:\Users\Комп\Desktop\учёба\homework\Seminar5_Task02\obj\Debug\net6.0\ref\Seminar5_Task02.dll
